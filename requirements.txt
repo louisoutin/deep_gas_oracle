@@ -1,0 +1,15 @@
+numpy
+pandas
+pandas-gbq
+pyarrow
+google-cloud-bigquery[bqstorage,pandas]
+statsmodels
+sklearn
+torch
+tsmoothie
+tensorboard
+matplotlib
+plotly
+holoviews
+seaborn
+notebook
