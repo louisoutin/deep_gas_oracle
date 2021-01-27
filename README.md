@@ -12,7 +12,7 @@
   <h3 align="center">Ethereum Deep Gas Price Oracle</h3>
 
   <p align="center">
-    This is an unofficial implementation of the paper: <a href=https://arxiv.org/abs/2003.03479>Step on the Gas? A Better Approach for Recommending the Ethereum Gas Price</a> !
+    This is an unofficial implementation of the paper: <a href=https://arxiv.org/abs/2003.03479>Step on the Gas? A Better Approach for Recommending the Ethereum Gas Price</a> (by Sam M. Werner, Paul J. Pritz, Daniel Perez)!
     <br />
 
 
