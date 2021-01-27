@@ -148,15 +148,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Louis Outin - louis.outin@gmail.com
-
-Project Link: [https://github.com/louisoutin/deep_gas_oracle](https://github.com/louisoutin/deep_gas_oracle)
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [stars-shield]: https://img.shields.io/github/stars/louisoutin/deep_gas_oracle.svg?style=for-the-badge
