@@ -165,4 +165,3 @@ Project Link: [https://github.com/louisoutin/deep_gas_oracle](https://github.com
 [issues-url]: https://github.com/louisoutin/deep_gas_oracle/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/louisoutin/deep_gas_oracle/blob/master/LICENSE.txt
-<-- [product-screenshot]: images/screenshot.png -->
