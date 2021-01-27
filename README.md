@@ -56,7 +56,37 @@ gas price is very noisy, the idea is to predict the prices on the next minutes/h
 From thoses predictions the algorithm will return a recommended price, 
 taking into account the slope of the predictions.
 
-<img src="./images/loss.png" width="200">
+Few plots from this repository:
+
+Note: We try to forecast the minimum eth gas price over the next 3 hours.
+
+The loss of the GRU model:
+
+<img src="./images/loss.png" width="300">
+
+Model first timestamp predictions (5min) on the test range:
+
+<img src="./images/predictions_5min.png" width="300">
+
+Some predictions over the 3 hours:
+
+<img src="./images/pred_3h_1.png" width="300">
+
+<img src="./images/pred_3h_2.png" width="300">
+
+Results of the simulation between the block `8965759` and the block `8995344`:
+
+DEEP GAS ORACLE :
+
+<img src="./images/results_deep_gas_oracle.png" width="300">
+
+GETH (my implementation):
+
+<img src="./images/results_geth.png" width="300">
+
+As a comparison, here is the paper original results:
+
+<img src="./images/paper_results.png" width="300">
 
 
 Note: I just tried a few different hyper-parameters but didn't have time to tune them yet.
